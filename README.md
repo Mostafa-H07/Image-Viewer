@@ -48,14 +48,13 @@ The system's comprehensive feature set and user-friendly interface make advanced
 https://github.com/user-attachments/assets/43af2ec1-78f4-4d40-8654-8762c036b6d0
 
 ## Contributors 🦸‍♂️
-- Mostafa Hany
-- Mostafa Hazem
+- Mostafa Hany Mostafa
+- Mostafa Hany Tawfiq
 - Muhammad Nasser
 
 ## License 🧾
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Image-Viewer/blob/4172b7800c9b42de4e784505ad34a04d90bf09b5/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mostafa-H07/Image-Viewer/blob/429982c72c998478c2f8426ee4c8f9a86fe1856a/LICENSE) for details.
 
 ## Contact 📞
-Email: Mostafahany4705@gmail.com <br>
-LinkedIn: www.linkedin.com/in/mostafahany4705
+Email: mostafa.ibrahim07@eng-st.cu.edu.eg <br>
 
